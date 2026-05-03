@@ -36,8 +36,8 @@ Ana dizinde .env adında bir dosya oluşturun ve içeriğini şu şekilde doldur
 
 Kod snippet'i
 
-TELEGRAM_BOT_TOKEN=8633125299:AAHaFRhN8R4Vu53C8LfhEASSLZCUy6P__98
-TELEGRAM_CHAT_ID=709267886
+TELEGRAM_BOT_TOKEN=xxxxxxxxxx
+TELEGRAM_CHAT_ID=xxxxxxxxx
 # Sadece Brave kullanıcıları için (yol kurulumunuza göre değişebilir):
 BRAVE_BINARY_PATH=D:\BraveSoftware\Brave-Browser\Application\brave.exe
 KONTROL_ARALIGI_SANIYE=300
