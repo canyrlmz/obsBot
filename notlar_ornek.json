@@ -1,0 +1,12 @@
+[
+    {
+        "ders_kodu": "XXX101",
+        "ders_adi": "Örnek Ders 1",
+        "notlar": "Vize : 50"
+    },
+    {
+        "ders_kodu": "XXX102",
+        "ders_adi": "Örnek Ders 2",
+        "notlar": "Vize : --"
+    }
+]
